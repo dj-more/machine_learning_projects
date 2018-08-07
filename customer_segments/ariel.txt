@@ -1,0 +1,175 @@
+Extracting the top 85 eigenfaces from 966 faces
+done in 0.165s
+Projecting the input data on the eigenfaces orthonormal basis
+done in 0.010s
+Fitting the classifier to the training set
+
+done in 6.753s
+
+Best parameters set found on development set:
+
+{'C': 1, 'gamma': 0.01}
+ 
+Predicting the people names on the testing set
+                   precision    recall  f1-score   support
+
+     Ariel Sharon       0.91      0.77      0.83        13
+     Colin Powell       0.85      0.95      0.90        60
+  Donald Rumsfeld       0.77      0.63      0.69        27
+    George W Bush       0.92      0.97      0.94       146
+Gerhard Schroeder       0.73      0.76      0.75        25
+      Hugo Chavez       0.91      0.67      0.77        15
+       Tony Blair       0.90      0.78      0.84        36
+
+      avg / total       0.88      0.88      0.87       322
+
+Extracting the top 10 eigenfaces from 966 faces
+done in 0.053s
+Projecting the input data on the eigenfaces orthonormal basis
+done in 0.008s
+Fitting the classifier to the training set
+
+done in 4.098s
+
+Best parameters set found on development set:
+
+{'C': 100.0, 'gamma': 0.01}
+ 
+Predicting the people names on the testing set
+                   precision    recall  f1-score   support
+
+     Ariel Sharon       0.17      0.46      0.24        13
+     Colin Powell       0.52      0.57      0.54        60
+  Donald Rumsfeld       0.31      0.41      0.35        27
+    George W Bush       0.77      0.44      0.56       146
+Gerhard Schroeder       0.20      0.28      0.23        25
+      Hugo Chavez       0.18      0.40      0.24        15
+       Tony Blair       0.42      0.39      0.41        36
+
+      avg / total       0.55      0.44      0.47       322
+
+Extracting the top 20 eigenfaces from 966 faces
+done in 0.057s
+Projecting the input data on the eigenfaces orthonormal basis
+done in 0.008s
+Fitting the classifier to the training set
+
+done in 3.039s
+
+Best parameters set found on development set:
+
+{'C': 100.0, 'gamma': 0.01}
+ 
+Predicting the people names on the testing set
+                   precision    recall  f1-score   support
+
+     Ariel Sharon       0.47      0.54      0.50        13
+     Colin Powell       0.65      0.73      0.69        60
+  Donald Rumsfeld       0.57      0.59      0.58        27
+    George W Bush       0.84      0.81      0.83       146
+Gerhard Schroeder       0.52      0.60      0.56        25
+      Hugo Chavez       0.80      0.53      0.64        15
+       Tony Blair       0.59      0.53      0.56        36
+
+      avg / total       0.71      0.70      0.71       322
+
+Extracting the top 45 eigenfaces from 966 faces
+done in 0.075s
+Projecting the input data on the eigenfaces orthonormal basis
+done in 0.008s
+Fitting the classifier to the training set
+
+done in 3.767s
+
+Best parameters set found on development set:
+
+{'C': 5, 'gamma': 0.01}
+ 
+Predicting the people names on the testing set
+                   precision    recall  f1-score   support
+
+     Ariel Sharon       0.69      0.69      0.69        13
+     Colin Powell       0.78      0.88      0.83        60
+  Donald Rumsfeld       0.59      0.59      0.59        27
+    George W Bush       0.89      0.89      0.89       146
+Gerhard Schroeder       0.67      0.64      0.65        25
+      Hugo Chavez       0.75      0.60      0.67        15
+       Tony Blair       0.78      0.69      0.74        36
+
+      avg / total       0.80      0.80      0.80       322
+
+Extracting the top 75 eigenfaces from 966 faces
+done in 0.103s
+Projecting the input data on the eigenfaces orthonormal basis
+done in 0.008s
+Fitting the classifier to the training set
+
+done in 6.200s
+
+Best parameters set found on development set:
+
+{'C': 1, 'gamma': 0.01}
+ 
+Predicting the people names on the testing set
+                   precision    recall  f1-score   support
+
+     Ariel Sharon       0.75      0.69      0.72        13
+     Colin Powell       0.83      0.92      0.87        60
+  Donald Rumsfeld       0.65      0.63      0.64        27
+    George W Bush       0.92      0.92      0.92       146
+Gerhard Schroeder       0.74      0.80      0.77        25
+      Hugo Chavez       0.83      0.67      0.74        15
+       Tony Blair       0.82      0.75      0.78        36
+
+      avg / total       0.84      0.84      0.84       322
+
+Extracting the top 90 eigenfaces from 966 faces
+done in 0.142s
+Projecting the input data on the eigenfaces orthonormal basis
+done in 0.016s
+Fitting the classifier to the training set
+
+done in 7.293s
+
+Best parameters set found on development set:
+
+{'C': 1, 'gamma': 0.005}
+ 
+Predicting the people names on the testing set
+                   precision    recall  f1-score   support
+
+     Ariel Sharon       0.62      0.77      0.69        13
+     Colin Powell       0.86      0.90      0.88        60
+  Donald Rumsfeld       0.67      0.67      0.67        27
+    George W Bush       0.96      0.92      0.94       146
+Gerhard Schroeder       0.64      0.84      0.72        25
+      Hugo Chavez       0.80      0.53      0.64        15
+       Tony Blair       0.79      0.72      0.75        36
+
+      avg / total       0.85      0.84      0.84       322
+
+Extracting the top 250 eigenfaces from 966 faces
+done in 0.193s
+Projecting the input data on the eigenfaces orthonormal basis
+done in 0.025s
+Fitting the classifier to the training set
+
+done in 19.617s
+
+Best parameters set found on development set:
+
+{'C': 5, 'gamma': 0.001}
+ 
+Predicting the people names on the testing set
+                   precision    recall  f1-score   support
+
+     Ariel Sharon       0.53      0.62      0.57        13
+     Colin Powell       0.74      0.88      0.80        60
+  Donald Rumsfeld       0.86      0.70      0.78        27
+    George W Bush       0.92      0.89      0.91       146
+Gerhard Schroeder       0.78      0.84      0.81        25
+      Hugo Chavez       0.80      0.53      0.64        15
+       Tony Blair       0.86      0.83      0.85        36
+
+      avg / total       0.84      0.84      0.84       322
+
