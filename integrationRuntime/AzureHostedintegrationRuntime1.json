@@ -1,0 +1,17 @@
+{
+	"name": "AzureHostedintegrationRuntime1",
+	"properties": {
+		"type": "Managed",
+		"description": "Azure Hosted Integration RunTime ",
+		"typeProperties": {
+			"computeProperties": {
+				"location": "South Central US",
+				"dataFlowProperties": {
+					"computeType": "General",
+					"coreCount": 8,
+					"timeToLive": 0
+				}
+			}
+		}
+	}
+}
